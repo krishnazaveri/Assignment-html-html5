@@ -1,0 +1,119 @@
+Assignment
+
+MODULE: 1 (HTML)
+
+• Are the HTML tags and elements the same thing?
+	Yes, HTML tags and elements are same.
+
+
+• What are tags and attributes in HTML?
+	Tags:-An HTML element is defined by a start tag, some content, and an end tag.
+	Attributes:-HTML attributes provide additional information about HTML elements/tag.
+
+• What are void elements in HTML?
+	Void elements are elements which has no end tag.E.g <br><img><meta><link><embed>
+
+• What are HTML Entities?
+	An HTML entity is a piece of text ("string") that begins with an ampersand ( & ) and ends with a semicolon ( ; ).
+
+• What are different types of lists in HTML? 
+	Different types of list are <ul><ol><dl>.
+
+• What is the ‘class’ attribute in HTML?
+	The class attribute specifies one or more classnames for an element. The class attribute is mostly used to point to a class in a style sheet.
+
+• What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
+	Difference between 'id' attribute and 'class' attribute is that in one element/tag there can be multiple classes but in one tag/element multiple id is not allowed.
+
+• What are the various formatting tags in HTML?
+	HTML formatting tag are <b>,<u>,<i>,<mark><strong><em><small>.
+
+• How is Cell Padding different from Cell Spacing?
+	Cell padding is used to set extra space which is used to separate cell walls from their contents. But in contrast cell spacing is used to set space between cells.
+	
+• How can we club two or more rows or columns into a single row or column in an HTML table?
+	To club two or more rows use rowspan and two or more colums use colspan.
+
+• What is the difference between a block-level element and an inline element?
+	Block elements always start from a new line. Inline elements never start from a new line. Block elements cover space from left to right as far as it can go. 
+	Inline elements only cover the space as bounded by the tags in the HTML element.
+
+• How to create a Hyperlink in HTML?
+	To make a hyperlink in an HTML page, use the <a> and </a> tags, which are the tags used to define the links. The <a> tag indicates where the hyperlink starts and the </a> tag indicates where it ends. 
+	Whatever text gets added inside these tags, will work as a hyperlink. 
+	Add the URL for the link in the <a href=” ”>
+
+• What is the use of an iframe tag?
+	An inline frame (iframe) is a HTML element that loads another HTML page within the document. It essentially puts another webpage within the parent page. 
+	They are commonly used for advertisements, embedded videos, web analytics and interactive content.
+
+• What is the use of a span tag? Explain with example?
+	The <span> tag is an inline container used to mark up a part of a text, or a part of a document. 
+	The <span> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute. 
+	The <span> tag is much like the <div> element, but <div> is a block-level element and <span> is an inline element.
+	
+• How to insert a picture into a background image of a web page?
+	The most common & simple way to add background image is using the background image attribute inside the <body> tag. 
+	The background attribute which we specified in the <body> tag is not supported in HTML5.
+	Using CSS properties, we can also add background image in a webpage.
+
+• How are active links different from normal links?
+	By default, a link will appear like this (in all browsers): An unvisited link is underlined and blue. 
+	A visited link is underlined and purple. An active link is underlined and red.
+
+• What are the different tags to separate sections of text?
+	There are three tags that can be used to separate the texts:
+		<br> tag – Usually <br> tag is used to separate the line of text. It breaks the current line and conveys the flow to the next line.
+		<p> tag – This contains the text in the form of a new paragraph.
+		<blockquote> tag – It is used to define a large quoted section.
+
+• What is SVG?
+	SVG stands for Scalable Vector Graphics
+	SVG is used to define graphics for the Web.
+	SVG is XML based, which means that every element is available within the SVG DOM. 
+	You can attach JavaScript event handlers for an element.
+
+• What is difference between HTML and XHTML?
+	HTML and XHTML are both markup languages used to create web pages and applications. HTML and XHTML have some key differences that set them apart.
+	Here are the following major differences between HTML and XHTML:
+
+	1.Hypertext mark-up language - - > HTML and Extensible Hypertext Mark-up Language - - > XHTML.
+	2.HTML stored in a document file format	and XHTML stored as a markup language format.
+	3.HTML is not case sensitive as there is no mandatory rule to write the entire mark up in uppercase or lower case. It can also be a combination of both.
+	  XHTML is case-sensitive, and every tag and attribute used inside must be in lowercase.
+		
+• What are logical and physical tags in HTML? 
+	Logical tags are used to tell the browser what kind of text is written inside the tags. 
+	They are different from physical tags because physical tags are used to decide the appearance of the text and do not provide any information about the text.
+
+
+
+
+MODULE: 3 (HTML 5)
+
+
+• What are the new tags added in HTML5?
+	header,footer,aside,canvas
+
+
+• How to embed audio and video in a webpage?
+	The <audio> element is used to embed audio files to a web page, and the <video> element is used to embed a video.
+
+• Semantic element in HTML5?
+	Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. 
+	Elements such as <header> , <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+
+• Canvas and SVG tags 
+	SVG is a language for describing 2D graphics in XML. 
+	Canvas draws 2D graphics, on the fly (with a JavaScript). SVG is XML based, which means that every element is available within the SVG DOM. 
+	You can attach JavaScript event handlers for an element.
+
+
+
+
+
+
+
+
+
+
